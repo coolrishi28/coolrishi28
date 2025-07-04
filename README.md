@@ -1,5 +1,7 @@
 <div align = "center">
   <img src = "header.gif" alt = "Welcome to my GitHub Profile" />
+<!--  <br>
+  <br> -->
 </div>
 
 <div align = "center">
@@ -18,6 +20,16 @@
 
 <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = "100%" height = "8" >
 </div>
+
+<br>
+<br>
+
+<div align = "center">
+  <img src = "under-construction.gif" alt = "under-construction" />
+  <br>
+  <br>
+</div>
+
 
 <!--
 ## Hi there 👋
