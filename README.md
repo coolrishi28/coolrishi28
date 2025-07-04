@@ -21,6 +21,23 @@
 <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = "100%" height = "8" >
 </div>
 
+## 🚀 About Me
+<div align = "center">
+  <table border = "0">
+    <tr>
+      <td width = "50%" valign = "top">
+        **💫 Developer Profile**
+        <p> <b> Role: </b> Master's Student </p>
+        <p> <b> Location: </b> India </p>
+        <p> <b> Experience: </b> Loading... </p>
+        <p> <b> Passion: </b> Coding and Mathematics </p>
+        <p> <b> Current Focus: </b> Researching on topics related to Artificial Intelligence and Machine Learning. </p>
+        <p> <b> Guiding Pronciples: </b> When the going gets tough, the tough gets going. </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 <br>
 
@@ -29,7 +46,6 @@
   <br>
   <br>
 </div>
-
 
 <!--
 ## Hi there 👋
