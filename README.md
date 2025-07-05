@@ -23,19 +23,27 @@
 
 ## 🚀 About Me
 <div align = "center">
-  <table border = "0">
-    <tr>
-      <td width = "50%" valign = "top">
-        **💫 Developer Profile**
-        <p> <b> Role: </b> Master's Student </p>
-        <p> <b> Location: </b> India </p>
-        <p> <b> Experience: </b> Loading... </p>
-        <p> <b> Passion: </b> Coding and Mathematics </p>
-        <p> <b> Current Focus: </b> Researching on topics related to Artificial Intelligence and Machine Learning. </p>
-        <p> <b> Guiding Pronciples: </b> When the going gets tough, the tough gets going. </p>
-      </td>
-    </tr>
-  </table>
+<table border = "0">
+<tr>
+<td width = "50%" valign = "top">
+  
+**💫 Developer Profile**
+
+<p> <b> Role: </b> Master's Student </p>
+<p> <b> Location: </b> India </p>
+<p> <b> Experience: </b> Loading... </p>
+<p> <b> Passion: </b> Coding and Mathematics </p>
+<p> <b> Current Focus: </b> Researching on topics related to Artificial Intelligence and Machine Learning. </p>
+<p> <b> Guiding Pronciples: </b> When the going gets tough, the tough gets going. </p>
+
+</td>
+<td width = "50%" valign = "top">
+
+<img align = "center" alt = "" width = "300" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+</td>
+</tr>
+</table>
 </div>
 
 <br>
