@@ -29,12 +29,12 @@
   
 **💫 Developer Profile**
 
-<p> <b> Role: </b> Master's Student </p>
+<p> <b> 🏢 Role: </b> Master's Student </p>
 <p> <b> 📍 Location: </b> India </p>
 <p> <b> ⚡️ Experience: </b> Loading... </p>
 <p> <b> 🎯 Passion: </b> Coding and Mathematics </p>
-<p> <b> Current Focus: </b> Researching on topics related to Artificial Intelligence and Machine Learning. </p>
-<p> <b> Guiding Pronciples: </b> When the going gets tough, the tough gets going. </p>
+<p> <b> 🔭 Current Focus: </b> Researching on topics related to Artificial Intelligence and Machine Learning. </p>
+<p> <b> 💭 Guiding Pronciples: </b> When the going gets tough, the tough gets going. </p>
 
 </td>
 <td width = "50%" valign = "top">
@@ -47,7 +47,7 @@
 </div>
 <div align = "center">
 
-<img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = "50%" height = "4">
+<img src = "logo.gif" width = "100%" height = "6">
 
 </div>
 
