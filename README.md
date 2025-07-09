@@ -55,6 +55,10 @@
 <br>
 <br>
 
+## 📊 GitHub Analytics
+<br>
+<br>
+
 <div align = "center">
 
 ### ❤️ Thanks for visiting!
