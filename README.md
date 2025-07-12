@@ -56,6 +56,10 @@
 <br>
 
 ## 📊 GitHub Analytics
+
+<div align = "center">
+
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=coolrishi28&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" allt = "GitHub Statistics"/>
 <br>
 <br>
 
