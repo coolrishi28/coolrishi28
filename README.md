@@ -68,6 +68,17 @@
   <img width = "90%" src = "https://github-readme-streak-stats.herokuapp.com/?user=coolrishi28&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt = "GitHub Streak" />
 </div>
 
+<div align = "center">
+  <img width = "90%" src = "https://github-readme-activity-graph.vercel.app/graph?username=coolrishi28&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" alt = "Contribution Graph" />
+</div>
+
+<div align = "centre">
+  <img src = "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = "100%" height = "6" >
+</div>
+
+## 🚀 What I'm Up To
+<div align = "center">
+</div>
 <br>
 <br>
 
