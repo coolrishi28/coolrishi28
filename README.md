@@ -59,7 +59,15 @@
 
 <div align = "center">
 
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=coolrishi28&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" allt = "GitHub Statistics"/>
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=coolrishi28&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt = "GitHub Statistics"/>
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coolrishi28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt = "Top Languages" />
+
+</div>
+
+<div align = "center">
+  <img width = "90%" src = "https://github-readme-streak-stats.herokuapp.com/?user=coolrishi28&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt = "GitHub Streak" />
+</div>
+
 <br>
 <br>
 
