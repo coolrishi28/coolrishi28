@@ -79,11 +79,11 @@
 ## 🚀 What I'm Up To
 <div align = "center">
 
-** Currently working on:** AI-powered. 
-** Learning:** Diving deep into Machine Learning, grounded in Mathematics.
-** Open to collaborate on:** Innovative and impactful projects.
-** Ask me about:** Algorithms, Machine Learning, Mathematics and SQL.
-** Fun Fact:** I keep my life like my code - mostly deterministic, slightly stochastic.
+<p> <b> Currently working on: </b> AI-powered. </p>
+<p> <b> Learning: </b> Diving deep into Machine Learning, grounded in Mathematics. </p>
+<p> <b> Open to collaborate on: </b> Innovative and impactful projects. </p>
+<p> <b> Ask me about: </b> Algorithms, Machine Learning, Mathematics and SQL. </p>
+<p> <b> Fun Fact: </b> I keep my life like my code - mostly deterministic, slightly stochastic. </p>
 
 </div>
 
