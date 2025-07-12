@@ -78,7 +78,15 @@
 
 ## 🚀 What I'm Up To
 <div align = "center">
+
+** Currently working on:** AI-powered. 
+** Learning:** Diving deep into Machine Learning, grounded in Mathematics.
+** Open to collaborate on:** Innovative and impactful projects.
+** Ask me about:** Algorithms, Machine Learning, Mathematics and SQL.
+** Fun Fact:** I keep my life like my code - mostly deterministic, slightly stochastic.
+
 </div>
+
 <br>
 <br>
 
